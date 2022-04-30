@@ -8,7 +8,7 @@ This is a draft document that will be updated as decisions are made concerning t
 * Member 2
 * Member 3
 
-## Objectives
+## Class Project Objectives
 * Build a message generator program using JavaScript
 * Use Git version control
 * Use command line
@@ -34,6 +34,7 @@ This is a draft document that will be updated as decisions are made concerning t
 1. Attractive Readme File written in Markdown
 2. Create and agree on psuedo code and before writing javascript.
 3. Javascript File that runs on node.js.
+4. Code stored on GitHub.
 
 ## Workpackages - Responsible - Date
 * Assemble a team - Jeff - TBD
