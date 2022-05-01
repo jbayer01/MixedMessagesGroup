@@ -5,5 +5,5 @@ The primary benefit of this exercise is to learn how to use Git and Github as a 
 
 ##Team Members
 *Jeff Bayer - Team Lead
-*Open
+*Blake Bayer - Consultant
 *Open
