@@ -8,6 +8,9 @@ This is a draft document that will be updated as decisions are made concerning t
 * Phil Burney-Cumming - Create the message JS
 * Member 3
 
+Another change
+
+
 ## Class Project Objectives
 * Build a message generator program using JavaScript
 * Use Git version control
