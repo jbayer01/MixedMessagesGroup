@@ -4,9 +4,11 @@
 This is a draft document that will be updated as decisions are made concerning this project.
 
 ## Team Members
+
 * Project Founder - Jeff Bayer
 * Phil Burney-Cumming - Create the message JS
-* Member 3
+
+
 
 Another change
 
