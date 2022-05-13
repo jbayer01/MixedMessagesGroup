@@ -5,7 +5,7 @@ This is a draft document that will be updated as decisions are made concerning t
 
 ## Team Members
 * Project Founder - Jeff Bayer
-* Member 2
+* Phil Burney-Cumming - Create the message JS
 * Member 3
 
 ## Class Project Objectives
