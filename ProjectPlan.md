@@ -4,8 +4,14 @@
 This is a draft document that will be updated as decisions are made concerning this project.
 
 ## Team Members
-* Jeff Bayer - Event Handler
-* Member 2
+
+* Project Founder - Jeff Bayer
+* Phil Burney-Cumming - Create the message JS
+
+
+
+Another change
+
 
 ## Class Project Objectives
 * Build a message generator program using JavaScript
