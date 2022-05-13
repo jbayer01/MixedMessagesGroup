@@ -10,7 +10,7 @@ console.log('messageButton: ' + messageButton.innerHTML);
 console.log('resetButton: ' + resetButton.innerHTML);
 
 const myMessage = function () {
-    document.getElementById('message1').innerHTML = newMessage;
+    document.getElementById('message1').innerHTML = newMessage();
     resetButton.hidden = false;
 }
 
