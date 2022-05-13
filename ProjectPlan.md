@@ -4,9 +4,8 @@
 This is a draft document that will be updated as decisions are made concerning this project.
 
 ## Team Members
-* Project Founder - Jeff Bayer
+* Jeff Bayer - Event Handler
 * Member 2
-* Member 3
 
 ## Class Project Objectives
 * Build a message generator program using JavaScript
