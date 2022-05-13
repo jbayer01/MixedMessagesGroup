@@ -1,17 +1,11 @@
 #Mixed Messages Project Plan
 ## A group project from the Full-Stack Path in Codecademy
 
-This is a draft document that will be updated as decisions are made concerning this project.
+This is a living document that will be updated as decisions are made concerning this project.
 
 ## Team Members
-
 * Project Founder - Jeff Bayer
 * Phil Burney-Cumming - Create the message JS
-
-
-
-Another change
-
 
 ## Class Project Objectives
 * Build a message generator program using JavaScript
@@ -28,24 +22,31 @@ Another change
 * Node.js Setup on local computer
 
 ## Project Plan
-1. Everyone gets setup with Git and GitHub so that we can collaborate. Send me your Github username so that I can invite you to contribute.
-2. Agree on a project and its expected functionality. At the present the project is Mixed Message as defined in Codecademy. This can be changed if someone has a better idea.
+1. Everyone gets setup with Git and GitHub so that we can collaborate. Send me your Github username so that I can invite you to contribute. - Done
+2. Agree on a project and its expected functionality. Done
 3. Create work packages, agree on completion dates and divide the tasks.
+    * The project will load as a webpage in a brower, not just node.js
+    * It will generate random fortune messages that will be displace each time the user clicks a buttom.
+    * The project will use js modules during the development to avoid merge conflicts.
+    * message.js will contain the function newMessage. - Phil
+    * main.js will have the event handler for the button. - Jeff
+    * index.html - Jeff
 4. Build the project. Collaborate and have fun.
 5. Review our work.
 6. Close the project.
 
 ## Project Deliverables
-1. Attractive Readme File written in Markdown
-2. Create and agree on psuedo code and before writing javascript.
-3. Javascript File that runs on node.js.
-4. Code stored on GitHub.
+1. Find and organize a team
+2. Readme File written in Markdown
+3. Agree on code structure
+4. Javascript module one for the messages, exports newMessage function
+5. Javascript file for event handler, calls module
+6. Code stored on GitHub. Development on local machines.
 
-## Workpackages - Responsible - Date
-* Assemble a team - Jeff - TBD
-* Format project Documents - 
-* Psuedo Code - Jeff / All -
-* Code package 1 - Jeff -
-* Code package 2 - 
-* Code package 3 -
-* Manage Version Control - Jeff - NA
+## Workpackages - Responsible
+* Assemble a team - Jeff
+* Project Documents - Jeff
+* index.html - Jeff
+* messages.js - Phil
+* main.js - Jeff
+* style.css - TBD
