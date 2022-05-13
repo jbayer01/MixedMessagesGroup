@@ -10,7 +10,7 @@ console.log('messageButton: ' + messageButton.innerHTML);
 console.log('resetButton: ' + resetButton.innerHTML);
 
 const myMessage = function () {
-    document.getElementById('message1').innerHTML = 'I updated, but no message yet.';
+    document.getElementById('message1').innerHTML = newMessage;
     resetButton.hidden = false;
 }
 
