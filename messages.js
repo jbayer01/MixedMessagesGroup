@@ -55,3 +55,4 @@ function newMessage() {
 
 
 //console.log(newMessage()); //testing
+export { newMessage }; //JAB Add for module functionality

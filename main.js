@@ -1,5 +1,5 @@
 // main.js
-//import {newMessage} from './message.js'
+import { newMessage } from './messages.js';
 
 console.log('main.js is loading');
 
